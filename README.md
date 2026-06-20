@@ -1,4 +1,4 @@
-# 🚀 Welcome to My GitHub
+# 🚀 Welcome to My GitHub, I'm study in Programming Advices
 
 Hi there 👋
 This repository is where I share my programming projects, problem-solving solutions, and coding practice.
