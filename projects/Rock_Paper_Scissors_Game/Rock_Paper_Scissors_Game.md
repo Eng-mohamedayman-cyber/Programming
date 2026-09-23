@@ -1,3 +1,6 @@
+![img](FinalResult.png)
+
+
 ```c
 #include <iostream>
 #include<cstdlib>
@@ -227,6 +230,3 @@ int main()
     return 0;
 }
 ```
-
-
-![img](FinalResult.png)
