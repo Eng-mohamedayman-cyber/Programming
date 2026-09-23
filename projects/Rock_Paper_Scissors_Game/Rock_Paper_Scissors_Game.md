@@ -229,4 +229,4 @@ int main()
 ```
 
 
-![img](Rock_Paper_Scissors_Game/FinalResult.png)
+![img](FinalResult.png)
