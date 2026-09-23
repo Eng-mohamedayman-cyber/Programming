@@ -1,8 +1,20 @@
 ![img](img/NewMainMenuScreen.png)
-![img](img/)
-![img](img/)
-![img](img/)
-![img](img/)
+
+---
+
+![img](img/DepositScreen.png)
+
+---
+
+![img](img/WithdrawScreen.png)
+
+---
+
+![img](img/TotalScreenScreen.png)
+
+---
+
+![img](img/TransactionsMenuScreen.png)
 
 
 ```c
