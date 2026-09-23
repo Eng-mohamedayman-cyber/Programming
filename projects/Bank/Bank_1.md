@@ -1,9 +1,27 @@
 ![img](img/MainMenuScreen.png)
+
+---
+
 ![img](img/Show_ClientList.png)
+
+---
+
 ![img](img/AddScreen.png)
+
+---
+
 ![img](img/DeleteScreen.png)
+
+---
+
 ![img](img/UpdateScreen.png)
+
+---
+
 ![img](img/FindScreen.png)
+
+---
+
 ![img](img/ProgramEndScreen.png)
 
 
