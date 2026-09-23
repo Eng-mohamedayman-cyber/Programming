@@ -1,26 +1,18 @@
-# Rock Paper Scissors Game 🎮
+# 🎮 Rock Paper Scissors Game
 
-A console-based **Rock Paper Scissors game** developed using C++.
+A console-based **Rock Paper Scissors game** developed using C++ as part of my practical learning journey with **Programming Advices**.
 
 ## 📌 Project Overview
 
-This project is a simple interactive game where the player competes against the computer for a selected number of rounds.
+This project applies C++ programming fundamentals to build an interactive Rock Paper Scissors game where the player competes against the computer.
 
-For each round, the player chooses:
+The player selects the number of rounds, makes a choice in each round, and the computer generates a random choice. The program then determines the winner and keeps track of the game statistics.
 
-1. Stone
-2. Paper
-3. Scissors
-
-The computer generates its choice randomly, and the program determines the winner based on the game rules.
-
-At the end of the game, a complete summary is displayed, including the number of rounds, player wins, computer wins, draws, and the final winner.
-
-## 🛠️ Concepts & Techniques Used
+## 🛠️ Concepts Practiced
 
 * C++ Fundamentals
-* `enum`
-* `struct`
+* Enums (`enum`)
+* Structures (`struct`)
 * Functions
 * Loops
 * Conditional Statements
@@ -28,56 +20,42 @@ At the end of the game, a complete summary is displayed, including the number of
 * Input Validation
 * Random Number Generation
 * Arrays
-* String Handling
+* Strings
 * Game Logic
 * Modular Programming
-* Console Formatting
 * Score Tracking
+* Console Formatting
 
-## 🎯 Main Features
+## 🎯 Features
 
-* Choose the number of rounds from 1 to 10
+* Select 1–10 rounds
 * Player vs Computer gameplay
 * Random computer choices
 * Automatic winner detection
 * Round-by-round results
-* Win, loss, and draw tracking
+* Win/Loss/Draw tracking
 * Final game statistics
 * Colored console output
-* Sound alert when the computer wins a round
-* Option to replay the game
+* Replay option
 
-## 📚 What I Practiced
+## 📚 Learning Context
 
-This project helped me practice breaking a problem into smaller functions and organizing related data using `struct` and `enum`.
-
-It also improved my understanding of:
-
-* Function design
-* Passing structures between functions
-* State and score management
-* Input validation
-* Randomization
-* Building a complete program from multiple independent components
+This project is part of my **C++ learning journey with Programming Advices**, where I’m practicing programming fundamentals, problem solving, and building projects to strengthen my coding skills.
 
 ## 💻 Technologies
 
-* C++
-* Standard C++ Library
+* **C++**
+* **Standard C++ Library**
 
 ## 🚀 Future Improvements
 
-Possible improvements include:
-
-* Adding different difficulty levels
-* Adding a game history
-* Saving results to a file
-* Adding player names
-* Improving the console UI
-* Adding more game statistics
-
----
+* Add player names
+* Save game history to a file
+* Add difficulty levels
+* Add more statistics
+* Improve the console interface
+* Add additional game modes
 
 **Project Type:** C++ Console Application
 **Language:** C++
-**Focus:** Programming Fundamentals & Problem Solving
+**Learning Platform:** Programming Advices
