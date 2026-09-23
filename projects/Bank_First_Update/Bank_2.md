@@ -2,7 +2,7 @@
 
 ---
 
-![img](img/TransactionsMenueScreen.png)
+![img](img/TransactionsMenueScrean.png)
 
 ---
 
