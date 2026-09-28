@@ -1051,7 +1051,7 @@ bool UpdateUserByUserName(string UserName, vector<stInfoUser>& vUser)
 		{
 			for (stInfoUser& U : vUser)
 			{
-				if (User.UserName == UserName)
+				if (U.UserName == UserName)
 				{
 					U = ChangeUserRecord(UserName);
 					break;
