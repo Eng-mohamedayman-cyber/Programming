@@ -1,4 +1,4 @@
-# 🏦 Bank Management System with Transactions – C++
+# 🏦 Bank Management System with Transactions – Version 2 – C++
 
 A console-based **Bank Management System** developed using C++ as part of my practical learning journey with **Programming Advices**.
 
