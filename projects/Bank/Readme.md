@@ -1,4 +1,4 @@
-# 🏦 Bank Management System – C++
+# 🏦 Bank Management System – Version 2 – C++
 
 A console-based **Bank Management System** developed using C++ as part of my practical learning journey with **Programming Advices**.
 
