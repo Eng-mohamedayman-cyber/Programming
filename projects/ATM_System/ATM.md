@@ -1,3 +1,27 @@
+![img](img/LoginScreen.png)
+
+---
+
+![img](img/AtmMainMenuScreen.png)
+
+---
+
+![img](img/QuickWithdrawScreen.png)
+
+---
+
+![img](img/NormalWithdrawScreen.png)
+
+---
+
+![img](img/DepositScreen.png)
+
+---
+
+![img](img/CheckBalanceScreen.png)
+
+---
+
 ```c
 #include <iostream>
 #include <string>
