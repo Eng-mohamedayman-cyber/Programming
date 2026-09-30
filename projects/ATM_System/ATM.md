@@ -283,7 +283,7 @@ short getQuickWithDrawAmount(short QuickWithDrawOption)
 void ShowQiuickWithdrawScreen()
 {
 	cout << "\n---------------------------------------------------------------------\n";
-	cout << "\t\tQiuick Withdraw Screen";
+	cout << "\t\tQuick Withdraw Screen";
 	cout << "\n---------------------------------------------------------------------\n";
 
 	vector<stInfoClient> vClient = LoadClientDataFromFile(ClientFileName);
@@ -352,9 +352,9 @@ double ReadDepositAmount()
 }
 void ShowDepositScreen()
 {
-	cout << "\n-----------------------------------\n";
+	cout << "\n---------------------------------------------------------------------\n";
 	cout << "\t\tDeposit Screen";
-	cout << "\n-----------------------------------\n";
+	cout << "\n---------------------------------------------------------------------\n";
 
 	vector<stInfoClient> vClient = LoadClientDataFromFile(ClientFileName);
 	string AccountNumber = CurrentClient.AccountNumber;
@@ -367,9 +367,9 @@ void ShowDepositScreen()
 //Check Balance
 void ShowCheckBalanceByAccountNumber()
 {
-	cout << "\n-----------------------------------\n";
+	cout << "\n---------------------------------------------------------------------\n";
 	cout << "\t\tCheck Balance Screen";
-	cout << "\n-----------------------------------\n";
+	cout << "\n---------------------------------------------------------------------\n";
 
 	cout << "Your Balance is: " << CurrentClient.AccountBalance << endl;
 
